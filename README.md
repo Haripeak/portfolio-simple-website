@@ -2,7 +2,7 @@
 
 Welcome to my portfolio websitel This project is a simple two-page site that includes and homepage and a contact page. It was create using HTML and basic CSS to provide a clean and straightforward user experience
 
-##pages
+## pages
 
 - **Home page:** A brief introduction and welcome message.
 - **Contact page:** Ways to get in touch with me.
